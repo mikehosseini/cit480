@@ -1,7 +1,5 @@
 ---
 layout: post
 title:  "Blog 0"
-date:   2020-09-01 19:06:14 -0700
-categories: jekyll update
 ---
 Hello

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CIT 480"
+title: "CIT 480 - CIT System Design and Implementation I"
 ---
 
 # [Blog 0](/_posts/2020-08-31-Blog-0.html).

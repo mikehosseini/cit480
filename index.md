@@ -10,7 +10,7 @@ title: "Mike Hosseini - CIT 480"
 
 
 
-[![alt text][1.1]][1]
+Follow me on [![alt text][1.1]][1]
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 

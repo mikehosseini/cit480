@@ -1,6 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
 ---
+
+# POSTS
+
+# [Blog 0](./_posts/2020-08-31-Blog-0.html).
+
+# [Blog 1](./_posts/2020-09-06-Blog-1.html).

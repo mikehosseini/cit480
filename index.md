@@ -10,9 +10,9 @@ title: "Mike Hosseini - CIT 480"
 
 
 
-[![alt text][1.1]][1]: mike.h
+[![alt text][1.1]][1]
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 
-[1]: http://www.twitter.com/carlsednaoui
+[1]: http://www.twitter.com/mikehosseini92
 

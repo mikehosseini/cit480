@@ -10,5 +10,9 @@ title: "Mike Hosseini - CIT 480"
 
 
 
-twitter_username: mike.h
-github_username:  mikehosseini
+[![alt text][1.1]][1]: mike.h
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+
+[1]: http://www.twitter.com/carlsednaoui
+

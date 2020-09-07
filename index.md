@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Mike Hosseini - CIT 480"
+title: "Mike Hosseini"
 ---
 # Posts
 

@@ -12,7 +12,7 @@ title: "Mike Hosseini"
 
 
 
-![CSUNLOGO](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![CSUNLOGO](https://mikehosseini.github.io/mikehosseini.github.io/images/csunlogo.gif)
 
 Follow me on [![alt text][1.1]][1]
 

@@ -4,13 +4,15 @@ title: "Mike Hosseini"
 ---
 # Posts
 
-# [Blog 0](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/08/31/Blog-0.html)
+<ul>
 
-# [Blog 1](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/09/06/Blog-1.html)
+  <li> # [Blog 0](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/08/31/Blog-0.html) </li>
 
-# [Blog 2](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/09/15/Blog-2.html)
+  # [Blog 1](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/09/06/Blog-1.html)
 
+  # [Blog 2](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/09/15/Blog-2.html)
 
+</ul>
 
 Follow me on [![alt text][1.1]][1]
 

@@ -14,7 +14,12 @@ title: "Mike Hosseini"
 
 <img src="https://mikehosseini.github.io/mikehosseini.github.io/images/csunlogo.gif" alt="CSUN Logo" width="90" height="90">
 
-Follow me on [![alt text][1.1]][1]
+
+<footer role="contentinfo">
+  <p><a href="http://www.twitter.com/mikehosseini92" title="Follow Me On Twitter" target="_blank">Twitter</a> Mike Hosseini</p>
+</footer>
+
+[![alt text][1.1]][1]
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 

@@ -2,7 +2,11 @@
 layout: default
 title: "Mike Hosseini"
 ---
-# Posts
+
+<header role="banner">
+  <h1>Posts</h1>
+  <nav role="navigation"> </nav>
+</header>
 
 
 * #  [Blog 0](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/08/31/Blog-0.html) 

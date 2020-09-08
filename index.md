@@ -12,7 +12,7 @@ title: "Mike Hosseini"
 * #  [Blog 2](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/09/15/Blog-2.html)
 
 
-<img src="https://mikehosseini.github.io/mikehosseini.github.io/images/csunlogo.gif" alt="CSUN Logo" width="80" height="80">
+<img src="https://mikehosseini.github.io/mikehosseini.github.io/images/csunlogo.gif" alt="CSUN Logo" width="90" height="90">
 
 Follow me on [![alt text][1.1]][1]
 

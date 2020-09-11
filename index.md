@@ -2,7 +2,6 @@
 layout: default
 title: "Mike Hosseini"
 ---
-<!DOCTYPE html>
 <header role="banner">
   <h1>Posts</h1>
   <nav role="navigation"> </nav>

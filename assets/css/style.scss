@@ -1,0 +1,98 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+    /* 2. Set the background color of pages a.  Applies to: styles.css b.  In the
+			   styles.css file, find the html,body rule (which controls the html and
+			   body element) c. Set the background color to #663399. As a bonus, if
+			   you remember how to format a comment in CSS, add the comment
+			   'Beccapurple' after the color definition.*/
+
+html, body {
+  background-color: #663399;  /* Beccapurple */
+}
+
+    /* 3. Float images a.  Applies to: styles.css b.  Find the .flowRight and
+      .flowLeft selectors c. Set the float property for flowRight to right and
+      flowLeft to left d. The float property controls how elements position
+      themselves and how content flows around them. Preview the intro.htm page
+      and note no change to how text flows around the images. Using a class
+      attribute apply the "floatRight" class to the first image, and the
+      "floatLeft" class to the second image. */
+
+.flowRight {
+  float: right;
+}
+.flowLeft {
+  float: left;
+}
+    /* 4. Set site-wide typography a.  Applies to: styles.css b.  Write a rule that
+			   sets the page's default font size to 100% of the user agent's default,
+			   and that requests Verdana as the font-family. Set Geneva and the
+			   default sans-serif families as fallbacks. Try to do all of this in a
+			   single rule if possible. */
+body {
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Verdana, Geneva, sans-serif;
+	font-size: 100%;
+  width: 80%;       /* width of the body */
+	padding: 20px 40px 20px 40px;
+	background-color: white;
+	line-height: 2em;
+}
+nav {
+  border-top: 2px solid red; 
+  border-bottom: 2px solid red;
+}
+h1 {
+  color: red;
+}
+h2 {
+  color: blue;
+}
+h3 {
+  color: green;
+}  
+p {
+  color: black
+}
+pre {
+  color: navy;
+  font-size: x-large;
+  margin-left: 20px;
+  padding: 10px 10px 10px 10px;
+  width: 60%;
+  background: silver;
+  border-left: 10px solid gray;
+  overflow-x: auto;
+  white-space: pre-wrap;
+	white-space: -moz-pre-wrap;
+	white-space: -pre-wrap;
+	white-space: -o-pre-wrap;
+	word-wrap: break-word; 
+}
+dt {
+  font-weight: bold;
+  font-style: italic;
+}
+pre.wrong {
+	border-left-color: red;
+}
+pre.correct {
+	border-left-color: green;
+}
+table {
+  margin-top: 1px;
+}
+.center {
+  text-align: center;
+}
+footer {
+	border-top: 2px solid red;
+	text-align: center;
+	font-size: .8em;
+	line-height: 0.5in;
+  margin-top: 1em;
+}

@@ -38,9 +38,13 @@
     <main id="content" class="main-content" role="main">
       {{ content }}
      
-      <footer role="site-footer">
-        <p><a href="http://www.twitter.com/mikehosseini92" title="Follow Me On Twitter" target="_blank">Twitter</a> Mike Hosseini</p>
+      <footer class="site-footer">
+        {% if site.github.is_project_page %}
+          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+        {% endif %}
+        <span class="site-footer-credits">Twitter<a href="http://www.twitter.com/mikehosseini92">Twitter</a>.</span>
       </footer>
+      
     </main>
   </body>
 </html>

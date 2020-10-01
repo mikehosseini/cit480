@@ -16,7 +16,7 @@ title: "Mike Hosseini"
 
 * #  [Blog 3](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/09/21/Blog-3.html)
 
-* #  [Blog 4](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/09/21/Blog-4.html)
+* #  [Blog 4](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/10/01/Blog-4.html)
 
 
 <img src="https://mikehosseini.github.io/mikehosseini.github.io/images/csunlogo.gif" alt="CSUN Logo" width="90" height="90">

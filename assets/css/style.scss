@@ -16,7 +16,7 @@ body {
     padding: 30px 50px 30px 50px;
     font-size: 100%;
     line-height: 2.5em;
-    border: 5px solid black;
+    border: 5px solid black;    
 }    
     
 nav {
@@ -35,6 +35,11 @@ a {
 a:hover {
     text-decoration: none;
     color: red;
+}
+
+.head {
+   
+     border-bottom:3px solid green;
 }
 
 p {

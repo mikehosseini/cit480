@@ -19,3 +19,5 @@ title: "CIT 480 Blogs - Mike Hosseini"
 * #  [Blog 6](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/10/14/Blog-6.html)
     
 * #  [Blog 7](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/10/19/Blog-7.html)
+
+<h4> Follow Me on <a href="https://twitter.com/MikeHosseini92">Twitter</a> </h4>

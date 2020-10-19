@@ -2,7 +2,7 @@
 layout: default
 title: "CIT 480 Blogs - Mike Hosseini"
 ---
-  <h1>Posts</h1>
+  <h1 style=border-bottom:"3px solid green">Posts</h1>
   
 * #  [Blog 0](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/08/31/Blog-0.html)
     

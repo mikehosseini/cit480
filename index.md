@@ -3,7 +3,6 @@ layout: default
 title: "Mike Hosseini"
 ---
 <header role="banner">
-   <script src="https://kit.fontawesome.com/093d9cc573.js" crossorigin="anonymous"></script>
   <h1>Posts</h1>
 </header>
   <body>

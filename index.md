@@ -2,11 +2,8 @@
 layout: default
 title: "Mike Hosseini"
 ---
-<header role="banner">
   <h1>Posts</h1>
-</header>
   <body>
-  
     * #  [Blog 0](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/08/31/Blog-0.html) 
 
     * #  [Blog 1](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/09/06/Blog-1.html)
@@ -35,4 +32,3 @@ title: "Mike Hosseini"
 
     [1]: http://www.twitter.com/mikehosseini92 -->
   </body>
-</html>

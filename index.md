@@ -21,3 +21,11 @@ title: "CIT 480 Blogs - Mike Hosseini"
 * #  [Blog 7](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/10/19/Blog-7.html)
 
 * #  [Blog 8](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/10/29/Blog-8.html)
+
+* #  [Blog 9](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/11/06/Blog-9.html)
+
+* #  [Blog 10](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/11/13/Blog-10.html)
+
+* #  [Blog 11](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/11/20/Blog-11.html)
+
+* #  [Blog 12](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/11/27/Blog-12.html)

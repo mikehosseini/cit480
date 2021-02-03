@@ -1,8 +1,10 @@
 ---
 layout: default
-title: "CIT 480 Blogs - Mike Hosseini"
+title: "CIT 480/1 Blogs - Mike Hosseini"
 ---
   <h1 class=head>Posts</h1>
+  
+  <h1> CIT 480 - Fall 2020 </h1>
   
 * #  [Blog 0](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/08/31/Blog-0.html)
     

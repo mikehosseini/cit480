@@ -33,7 +33,7 @@ title: "CIT 480/1 Blogs - Mike Hosseini"
   
   <h1> CIT 480 - Fall 2020 </h1>
   
-* #  [Blog 0](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/08/31/Blog-0.html)
+<!-- * #  [Blog 0](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/08/31/Blog-0.html)
     
 * #  [Blog 1](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/09/06/Blog-1.html)
     
@@ -57,4 +57,5 @@ title: "CIT 480/1 Blogs - Mike Hosseini"
 
 * #  [Blog 11](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/11/20/Blog-11.html)
 
-* #  [Blog 12](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/11/27/Blog-12.html)
+* #  [Blog 12](https://mikehosseini.github.io/mikehosseini.github.io/posts/2020/11/27/Blog-12.html) 
+--->

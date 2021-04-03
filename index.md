@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 ---
 layout: default
 title: "CIT 480/1 Blogs - Mike Hosseini"

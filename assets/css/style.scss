@@ -2,3 +2,53 @@
 ---
 
 @import 'jekyll-theme-cayman';
+html {
+    background-color: #5F88A8;
+    margin: 30px;
+}
+    
+body {
+    background-color: white;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px 50px 30px 50px;
+    font-size: 100%;
+    line-height: 2.5em;
+    border: 5px solid black;    
+}    
+    
+nav {
+    text-align: center;
+    font-size: 16px;
+    margin: 10px;
+}
+
+a {
+    color: #20A4F3;
+    text-decoration: none;
+    padding: 30px;
+    width: 100%;
+}
+
+a:hover {
+    text-decoration: none;
+    color: grey;
+}
+
+.head {
+   
+    border-bottom:3px solid green;
+    margin-bottom: 2em;
+}
+
+p {
+    text-indent: 2px;
+}
+
+footer {
+    border-top: 3px solid green;
+    text-align: left;
+    font-size: 0.9em;
+    margin-top: 2em;
+}

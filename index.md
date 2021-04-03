@@ -6,7 +6,7 @@ title: "CIT 480/1 Blogs - Mike Hosseini"
   
   <h1> CIT 481 - Spring 2021 </h1>
   
-* #  [Blog 0](https://mikehosseini.github.io/mikehosseini.github.io/posts/2021/02/19/sp21Blog-0.html)
+* #  [Blog 0](https://mikehosseini.github.io/posts/2021/02/19/sp21Blog-0.html)
     
 * #  [Blog 1](https://mikehosseini.github.io/mikehosseini.github.io/posts/2021/02/26/sp21Blog-1.html)
     

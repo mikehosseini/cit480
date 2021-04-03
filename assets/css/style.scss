@@ -1,7 +1,7 @@
 ---
 ---
 
-@import 'jekyll-theme-cayman';
+@import "{{ site.theme }}";
 
 html {
     background-color: #5F88A8;

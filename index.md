@@ -8,9 +8,9 @@ title: "CIT 480/1 Blogs - Mike Hosseini"
   
 * #  [Blog 0](https://mikehosseini.github.io/posts/2021/02/19/sp21Blog-0.html)
     
-* #  [Blog 1](https://mikehosseini.github.io/mikehosseini.github.io/posts/2021/02/26/sp21Blog-1.html)
+* #  [Blog 1](https://mikehosseini.github.io/posts/2021/02/26/sp21Blog-1.html)
     
-* #  [Blog 2](https://mikehosseini.github.io/mikehosseini.github.io/posts/2021/03/05/sp21Blog-2.html)
+* #  [Blog 2](https://mikehosseini.github.io/posts/2021/03/05/sp21Blog-2.html)
     
 * #  [Blog 3](https://mikehosseini.github.io/mikehosseini.github.io/posts/2021/03/12/sp21Blog-3.html)
     
